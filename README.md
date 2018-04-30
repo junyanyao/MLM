@@ -11,7 +11,7 @@ The classroom dataset has three levels of nesting: schools, classrooms within sc
 | Minority            | minority (0/1)                      |
 | Mathkind            | math score in spring of kindergarten|
 | Mathgain            | math score in spring of first grade |
-| ses                 |ses                                  |
+| ses                 | ses                                 |
 | yearstea            | Teachers' years of teaching         |
 | mathknow            | Teachers' math knowledge            |
 | housepov            | Average household poverty           |
